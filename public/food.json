@@ -1,0 +1,212 @@
+[
+    {
+        "id": "1",
+        "name": "Khichuri",
+        "price": 60,
+        "ratings": 4,
+        "image": "egg kichuri.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Chicken Biriyani",
+        "price": 120,
+        "ratings": 4,
+        "image": "chicken biriany.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Plain Rice",
+        "price": 20,
+        "ratings": 4,
+        "image": "plain rice.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Beef Biriyani",
+        "price": 140,
+        "ratings": 4,
+        "image": "beef biriany.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Chicken Gril & Nan",
+        "price": 130,
+        "ratings": 4,
+        "image": "chicken gril & nan.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Chicken Roast",
+        "price": 120,
+        "ratings": 4,
+        "image": "chicken roast.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Chowmin",
+        "price": 60,
+        "ratings": 4,
+        "image": "chowmin.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Pasta",
+        "price": 60,
+        "ratings": 4,
+        "image": "pasta.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Mutton Biriyani",
+        "price": 160,
+        "ratings": 4,
+        "image": "pasta.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Rohu Fish",
+        "price": 420,
+        "ratings": 4,
+        "image": "rui fish.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Telepita Fish",
+        "price": 420,
+        "ratings": 4,
+        "image": "telapiya fish.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Mug Dal",
+        "price": 420,
+        "ratings": 4,
+        "image": "dal.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Mutton Biriyani",
+        "price": 420,
+        "ratings": 4,
+        "image": "pasta.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Cake",
+        "price": 420,
+        "ratings": 4,
+        "image": "Cake.jpg"
+    },
+    {
+        "id": "15",
+        "name": "Cup Cake",
+        "price": 420,
+        "ratings": 4,
+        "image": "cup cake.jpg"
+    },
+    {
+        "id": "16",
+        "name": "Pasta",
+        "price": 420,
+        "ratings": 4,
+        "image": "pasta.jpg"
+    },
+    {
+        "id": "17",
+        "name": "Donut",
+        "price": 420,
+        "ratings": 4,
+        "image": "donate.jpg"
+    },
+    {
+        "id": "18",
+        "name": "Donut",
+        "price": 420,
+        "ratings": 4,
+        "image": "donate 02.jpg"
+    },
+    {
+        "id": "19",
+        "name": "Singra",
+        "price": 420,
+        "ratings": 4,
+        "image": "singra.jpg"
+    },
+    {
+        "id": "20",
+        "name": "Samosa",
+        "price": 420,
+        "ratings": 4,
+        "image": "samosa.jpg"
+    },
+    {
+        "id": "21",
+        "name": "Apple Juice",
+        "price": 420,
+        "ratings": 4,
+        "image": "apple juice.jpg"
+    },
+    {
+        "id": "22",
+        "name": "Lemoned",
+        "price": 420,
+        "ratings": 4,
+        "image": "lemoned juice..jpg"
+    },
+    {
+        "id": "23",
+        "name": "Orange Juice",
+        "price": 420,
+        "ratings": 4,
+        "image": "orange juice.jpg"
+    },
+    {
+        "id": "24",
+        "name": "Watermelon Juice",
+        "price": 420,
+        "ratings": 4,
+        "image": "watermelon juice.jpg"
+    },
+    {
+        "id": "25",
+        "name": "Pineapple Juice",
+        "price": 420,
+        "ratings": 4,
+        "image": "pineapple juice.jpg"
+    },
+    {
+        "id": "26",
+        "name": "Mum Water",
+        "price": 420,
+        "ratings": 4,
+        "image": "mum water.jpg"
+    },
+    {
+        "id": "27",
+        "name": "Coca Cola",
+        "price": 420,
+        "ratings": 4,
+        "image": "cocacola.jpg"
+    },
+    {
+        "id": "28",
+        "name": "Fanta",
+        "price": 420,
+        "ratings": 4,
+        "image": "fanta.jpg"
+    },
+    {
+        "id": "29",
+        "name": "Sprite",
+        "price": 420,
+        "ratings": 4,
+        "image": "sprite.jpg"
+    },
+    {
+        "id": "30",
+        "name": "Kinle Water",
+        "price": 420,
+        "ratings": 4,
+        "image": "kinle water.jpg"
+    }
+]
